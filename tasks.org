@@ -1,0 +1,89 @@
+* DW
+
+* FH3
+** TODO 第２回運営委員会準備
+*** TODO ロジ
+    DEADLINE: <2015-09-04 金>
+**** TODO 出席者確認
+***** DONE 厚労省						       :mail:
+***** DONE 内閣府						       :mail:
+***** DONE 福岡市						       :mail:
+***** DONE CCC							       :mail:
+***** DONE 岡田先生						       :mail:
+***** DONE 田邊先生						       :mail:
+***** DONE 多田先生						       :mail:
+***** DONE 吉野先生						       :mail:
+***** TODO DI（堀さん、田上さん、南津さん）			       :mail:
+**** TODO 会場確保
+***** DONE 穴沢さん確認						       :mail:
+*** TODO コンテンツ作成
+**** TODO 出席者名簿
+     DEADLINE: <2015-09-11 金>
+***** TODO 出席者名簿作成					       :word:
+**** TODO 次第
+     DEADLINE: <2015-09-11 金>
+***** TODO 次第作成						:brain::word:
+**** TODO pkg
+     DEADLINE: <2015-09-14 月>
+***** TODO 空pkg作成						      :brain:
+***** TODO 中身埋め							:ppt:
+***** TODO 厚労省送付						       :mail:
+***** TODO プルーフ							:ppt:
+** TODO 第２回FECCセミナー準備
+*** TODO ロジ
+**** TODO 講師依頼
+***** TODO 田邊先生						       :mail:
+***** DONE 永原先生						       :mail:
+**** TODO 関係各所告知
+***** TODO 福岡市						       :mail:
+***** TODO 厚労省						       :mail:
+***** TODO ibb							       :mail:
+***** TODO Startup Go! Go!					       :mail:
+***** TODO FVM							       :mail:
+***** TODO 創業手帳						       :mail:
+***** TODO 中経連						       :mail:
+**** TODO 会場確保
+***** TODO 穴沢さん確認						       :mail:
+*** TODO コンテンツ作成
+**** TODO コンテンツ作成依頼					       :mail:
+*** TODO 宣伝
+**** TODO 広告
+***** TODO Facebook
+***** TODO 新聞広告
+***** TODO サイネージ
+** TODO 創業手帳共催セミナー準備
+*** TODO ロジ
+**** TODO 講師依頼
+**** TODO 会場確保
+**** TODO 関係各所告知
+*** TODO コンテンツ作成
+**** TODO コンテンツ作成依頼
+*** TODO 宣伝
+**** TODO 広告
+** TODO 8月次報告書
+*** TODO 空pkg作成							:ppt:
+*** TODO グラフ作成						      :excel:
+*** TODO グラフ貼付・整形						:ppt:
+*** TODO まとめ作成							:ppt:
+** TODO リーフレット配布
+*** TODO 配布先リスト作成
+*** TODO 追加印刷
+*** TODO 配布先依頼
+*** TODO 事務員配布依頼
+** ポスター制作
+*** DONE 文章送付to高山さん					       :mail:
+** 英語リーフレット作成
+*** TODO 厚労省確認
+*** TODO 原稿修正
+*** TODO 印刷注文
+** 大学への営業
+*** DONE 福岡市相談
+** その他営業
+
+* REC-NEW
+** TODO 9月内定者研修準備
+*** TODO お題作成
+** TODO 内定者本リストアップデート
+
+* ADM
+
